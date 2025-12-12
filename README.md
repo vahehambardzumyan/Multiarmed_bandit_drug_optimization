@@ -67,8 +67,7 @@ I am actively seeking medical collaborators for the next phase.
 MIT License – feel free to use, modify, and cite in academic work (please reference this repository).
 
 ### Author
-[Your Full Name]  
-Independent Academic Project (approx. 60 hours, 2025)  
-Supervised by: [Mentor Name] (one consultation)
+Vahe Hambardzumyan
+
 
 ⭐ Star this repo if you find it useful for teaching reinforcement learning in healthcare!
